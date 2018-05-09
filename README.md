@@ -1,2 +1,2 @@
 # Plastic_box_Faceplate
-replacement faceplate and gasket for 55 x 88 mm box
+replacement faceplate and gasket for 85 x 58 mm box
